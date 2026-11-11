@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GraphicsProgrammingAssignment/GraphicsProgrammingAssignment.vcxproj" Id="ca9dfc02-e1cb-48dd-96de-819cf4362169" />
+</Solution>
