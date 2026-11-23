@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lebin\\source\\repos\\GraphicsProgrammingAssignment\\",
+  "WorkspaceRootPath": "C:\\Users\\lebin\\Documents\\Github\\GraphicsProgrammingAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA9DFC02-E1CB-48DD-96DE-819CF4362169}|GraphicsProgrammingAssignment\\GraphicsProgrammingAssignment.vcxproj|C:\\Users\\lebin\\source\\repos\\GraphicsProgrammingAssignment\\GraphicsProgrammingAssignment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CA9DFC02-E1CB-48DD-96DE-819CF4362169}|GraphicsProgrammingAssignment\\GraphicsProgrammingAssignment.vcxproj|C:\\Users\\lebin\\Documents\\Github\\GraphicsProgrammingAssignment\\GraphicsProgrammingAssignment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CA9DFC02-E1CB-48DD-96DE-819CF4362169}|GraphicsProgrammingAssignment\\GraphicsProgrammingAssignment.vcxproj|solutionrelative:GraphicsProgrammingAssignment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\lebin\\source\\repos\\GraphicsProgrammingAssignment\\GraphicsProgrammingAssignment\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\lebin\\Documents\\Github\\GraphicsProgrammingAssignment\\GraphicsProgrammingAssignment\\main.cpp",
               "RelativeDocumentMoniker": "GraphicsProgrammingAssignment\\main.cpp",
-              "ToolTip": "C:\\Users\\lebin\\source\\repos\\GraphicsProgrammingAssignment\\GraphicsProgrammingAssignment\\main.cpp",
+              "ToolTip": "C:\\Users\\lebin\\Documents\\Github\\GraphicsProgrammingAssignment\\GraphicsProgrammingAssignment\\main.cpp",
               "RelativeToolTip": "GraphicsProgrammingAssignment\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-10T04:10:12.79Z",
               "EditorCaption": ""
